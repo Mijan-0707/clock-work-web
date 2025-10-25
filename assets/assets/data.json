@@ -1,0 +1,257 @@
+{
+  "appConfig": {
+    "appName": "ClockWork 360",
+    "primaryColor": "#EF4444",
+    "theme": {
+      "dark": "#1A1A1A",
+      "light": "#FFFFFF"
+    }
+  },
+  "homeScreen": {
+    "title": "CLOCK WORK",
+    "titleBackground": "360",
+    "socialLinks": [
+      {
+        "name": "Instagram",
+        "url": "https://instagram.com/clockwork360"
+      },
+      {
+        "name": "Facebook",
+        "url": "https://facebook.com/clockwork360"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/clockwork360"
+      }
+    ],
+    "backgroundImages": {
+      "clock_red_side": "assets/graphics/clock_red_side.png",
+      "clock": "assets/graphics/clock.png"
+    },
+    "backgroundSvgs": {
+      "triangles": "assets/graphics/triangles.svg",
+      "clock_white": "assets/graphics/clock_white.svg",
+        "clock_black": "assets/graphics/clock_black.svg",
+        "circle": "assets/graphics/circle.svg",
+      "clock_work_360" : "assets/graphics/clock_work_360.svg"
+
+    }
+  },
+  "whoWeAreScreen": {
+    "title": "WHO WE ARE",
+    "companyName": "clockwork360",
+    "description": [
+      "ClockWork 360 is a marketing and advertising agency. The agency commenced with the tasks to solve marketing and brand communications problems for small and medium enterprises, those are facing issues related to sales, sales team management, marketing budgets, digital marketing, and corporate communications, especially in competitive markets of Bangladesh. At present, Clock-Work 360 is associating with big brands.",
+      "ClockWork 360 provides strategic, creative, and technical solutions to organizations including content development, activations, digital media promotion, advertising, market research & survey, while ensuring ROI in return of optimized marketing budget and optimum reach of target market."
+    ],
+    "ctaButton": {
+      "text": "CONTACT",
+      "action": "scrollToContact"
+    },
+    "illustration": "assets/images/clock_gear.png"
+  },
+  "workScreen": {
+    "title": "Work",
+    "deviceMockups": {
+      "mobile": "assets/images/mobile_mockup.png",
+      "desktop": "assets/images/desktop_mockup.png"
+    },
+    "gearIcons": []
+  },
+  "servicesScreen": {
+    "title": "OUR SERVICE",
+    "services": [
+      {
+        "id": 1,
+        "name": "AUDIO-VISUAL\nPRODUCTION",
+        "icon": "assets/images/service_av.png",
+        "description": "Professional audio-visual production services"
+      },
+      {
+        "id": 2,
+        "name": "DESIGN",
+        "icon": "assets/images/service_design.png",
+        "description": "Creative design solutions"
+      },
+      {
+        "id": 3,
+        "name": "PHOTOGRAPHY",
+        "icon": "assets/images/service_photo.png",
+        "description": "Professional photography services"
+      },
+      {
+        "id": 4,
+        "name": "WEB\nDESIGN",
+        "icon": "assets/images/service_web.png",
+        "description": "Modern web design services"
+      },
+      {
+        "id": 5,
+        "name": "DIGITAL\nMARKETING",
+        "icon": "assets/images/service_digital.png",
+        "description": "Comprehensive digital marketing"
+      },
+      {
+        "id": 6,
+        "name": "SEO",
+        "icon": "assets/images/service_seo.png",
+        "description": "Search engine optimization"
+      },
+      {
+        "id": 7,
+        "name": "VIDEO\nEDITING",
+        "icon": "assets/images/service_video.png",
+        "description": "Professional video editing"
+      }
+    ]
+  },
+  "workWithScreen": {
+    "title": "WORK WITH",
+    "clients": [
+      {
+        "name": "Paragon Hospitality",
+        "logo": "assets/images/clients/client_1.png"
+      },
+      {
+        "name": "Praasam",
+        "logo": "assets/images/clients/client_2.png"
+      },
+      {
+        "name": "F2",
+        "logo": "assets/images/clients/client_3.png"
+      },
+      {
+        "name": "Paragon Catering",
+        "logo": "assets/images/clients/client_4.png"
+      },
+      {
+        "name": "Aiwah Events",
+        "logo": "assets/images/clients/client_5.png"
+      },
+      {
+        "name": "Shooting Club",
+        "logo": "assets/images/clients/client_6.png"
+      },
+      {
+        "name": "Motion",
+        "logo": "assets/images/clients/client_7.png"
+      },
+      {
+        "name": "Dough",
+        "logo": "assets/images/clients/client_8.png"
+      },
+      {
+        "name": "RedKnot",
+        "logo": "assets/images/clients/client_9.png"
+      },
+      {
+        "name": "Paragon",
+        "logo": "assets/images/clients/client_10.png"
+      },
+      {
+        "name": "Porcelain",
+        "logo": "assets/images/clients/client_11.png"
+      },
+      {
+        "name": "Porcelain+",
+        "logo": "assets/images/clients/client_12.png"
+      },
+      {
+        "name": "Culinary",
+        "logo": "assets/images/clients/client_13.png"
+      },
+      {
+        "name": "Kelly Mart",
+        "logo": "assets/images/clients/client_14.png"
+      },
+      {
+        "name": "Absolute Thai",
+        "logo": "assets/images/clients/client_15.png"
+      },
+      {
+        "name": "Aylanto",
+        "logo": "assets/images/clients/client_16.png"
+      },
+      {
+        "name": "Mithaiwala",
+        "logo": "assets/images/clients/client_17.png"
+      },
+      {
+        "name": "Galouri",
+        "logo": "assets/images/clients/client_18.png"
+      },
+      {
+        "name": "Gramsico",
+        "logo": "assets/images/clients/client_19.png"
+      },
+      {
+        "name": "Loyal Bee",
+        "logo": "assets/images/clients/client_20.png"
+      },
+      {
+        "name": "Grillers",
+        "logo": "assets/images/clients/client_21.png"
+      },
+      {
+        "name": "Bipojana",
+        "logo": "assets/images/clients/client_22.png"
+      },
+      {
+        "name": "Helpis",
+        "logo": "assets/images/clients/client_23.png"
+      },
+      {
+        "name": "Absolute Virgin",
+        "logo": "assets/images/clients/client_24.png"
+      },
+      {
+        "name": "Master Chef",
+        "logo": "assets/images/clients/client_25.png"
+      },
+      {
+        "name": "Krispy Kream",
+        "logo": "assets/images/clients/client_26.png"
+      },
+      {
+        "name": "Munchery",
+        "logo": "assets/images/clients/client_27.png"
+      },
+      {
+        "name": "Look",
+        "logo": "assets/images/clients/client_28.png"
+      }
+    ]
+  },
+  "portfolioScreen": {
+    "title": "PORTFOLIO",
+    "subtitle": "SHOWREEL",
+    "videoUrl": "assets/videos/showreel.mp4",
+    "thumbnailImage": "assets/images/showreel_thumbnail.png"
+  },
+  "contactScreen": {
+    "title": "CONTACT",
+    "contactCards": [
+      {
+        "title": "CONTACT",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris",
+        "buttonText": "Get In Touch",
+        "buttonAction": "email",
+        "email": "info@clockwork360.com"
+      },
+      {
+        "title": "CONTACT",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris",
+        "buttonText": "Call Us",
+        "buttonAction": "phone",
+        "phone": "+880 123 456 7890"
+      },
+      {
+        "title": "CONTACT",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris",
+        "buttonText": "Visit Us",
+        "buttonAction": "location",
+        "address": "Dhaka, Bangladesh"
+      }
+    ]
+  }
+}
